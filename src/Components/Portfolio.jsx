@@ -31,28 +31,28 @@ const imageAltText = "A male human overlooking a holographic Earth.";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "I became an affiliate partner @ Proton 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Make the switch to Proton today, and experience the freedom and peace of mind that come with truly private internet access. Protect your data, reclaim your privacy, and join the movement for a better, safer online world.",
+    url: "https://go.getproton.me/SHfq",
   },
   {
-    title: "Web Development for Beginners",
+    title: "GitHub Repositories",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "From Python mobile app foundations to data visualizations and more. I am determined to continue showing the results of my passion in the tech world to expressively communicate through activism, teaching, and advancement for all.",
+    url: "https://github.com/Nichols-Tech?tab=repositories",
   },
   {
-    title: "My Resume Site",
+    title: "Coursera",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I've gathered over 19 certificates relating to Python, Data Privacy, Data Engineering, Data Analytics, Visualizations, Microsoft Azure, Blockchain, Finance and more. These are preludes to my certification goals in Azure.",
+    url: "https://www.coursera.org/learner/joshua-samuel-nichols",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "MBA in Data Science",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A lot of professionals in the tech space would say you don't need a degree to code or break into tech. While this is true, I'm obsessed with learning. So, I went for a Masters program to further my expertise in the field of Data + Business.",
+    url: "hhttps://www.ssbm.ch/online-mba-in-data-science/",
   },
 ];
 
