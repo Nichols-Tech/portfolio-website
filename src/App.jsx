@@ -29,7 +29,7 @@ const siteProps = {
   email: "joshuasnichols@proton.me",
   gitHub: "https://github.com/Nichols-Tech",
   instagram: "https://instagram.com/Nichols.Tech",
-  linkedIn: "satyanadella",
+  linkedIn: "mrnichols",
 };
 
 const primaryColor = "#4E567E";
