@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Back-End",
   "Data Engineering",
   "Data Analytics",
+  "Data Privacy",
   "Cloud Computing",
   "Database Management",
-  "Data Privacy and Protection",
+  "Business Administration",
 ];
 
 /**
