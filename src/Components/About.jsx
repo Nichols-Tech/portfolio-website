@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/dataworld3.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "MATLAB";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a MBA in Data Science student studying at Swiss School of Business and Management. I have a BBA from Lille IAE.";
+  "I'm passionate about many things like technology, data, and business. That's why I'm going for a MBA in Data Science at Swiss School of Business and Management in Switzerland. I received my BBA from Lille IAE in France while interning at the United Nations' technology agency ITU. Before pursuing Data Science, I was an Electrician and Musician in Nashville.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Data experience I continually look for new and better ways to make information more fun to experience.";
+  "I am passionate about solving problems through analytical thinking. By leveraging my Data experience I continually look for new and better ways to make information more fun to experience.";
 
 const About = () => {
   return (
