@@ -53,7 +53,7 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
-          backgroundColor: "white",
+          backgroundColor: "black",
           width: "50%",
           padding: "4rem",
           margin: "3rem auto",
@@ -69,6 +69,7 @@ const About = () => {
             columns: 2,
             fontSize: "1.25rem",
             margin: "2rem 3rem",
+            color: white,
             gap: "3rem",
           }}
         >
