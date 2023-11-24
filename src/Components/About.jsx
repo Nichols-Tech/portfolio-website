@@ -69,7 +69,6 @@ const About = () => {
             columns: 2,
             fontSize: "1.25rem",
             margin: "2rem 3rem",
-            color: white,
             gap: "3rem",
           }}
         >
