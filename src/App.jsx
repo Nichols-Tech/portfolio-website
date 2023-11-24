@@ -27,8 +27,8 @@ const siteProps = {
   name: "Joshua Samuel Nichols",
   title: "Data Specialist",
   email: "joshuasnichols@proton.me",
-  gitHub: "https://github.com/Nichols-Tech",
-  instagram: "https://instagram.com/Nichols.Tech",
+  gitHub: "Nichols-Tech",
+  instagram: "Nichols.Tech",
   linkedIn: "mrnichols",
 };
 
